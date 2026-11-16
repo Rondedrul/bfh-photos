@@ -9,7 +9,7 @@
       "camera": {"x": 261.00, "y": 69.12, "z": 287.22, "yaw": 1200.3, "pitch": 27.1},
       "delayTicks": 0,
       "cooldownSeconds": 120,
-      "requirePassenger": true
+      "requirePassenger": false
     },
     {
       "id": "sos-links",

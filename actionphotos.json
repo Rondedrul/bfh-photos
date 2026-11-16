@@ -1,15 +1,15 @@
 {
   "points": [
     {
-      "id": "python",
-      "name": "Python",
-      "counters": ["Python"],
+      "id": "pirana",
+      "name": "Pira\u00F1a",
+      "counters": ["Pira\u00F1a"],
       "park": "park-1",
-      "trigger": { "x": 100.5, "y": 64.0, "z": -20.5, "radius": 3 },
-      "camera":  { "x": 110.5, "y": 70.0, "z": -10.5, "yaw": 135.0, "pitch": 10.0 },
+      "trigger": {"x": 253.13, "y": 63.78, "z": 284.05, "radius": 3},
+      "camera": {"x": 261.00, "y": 69.12, "z": 287.22, "yaw": 1200.3, "pitch": 27.1},
       "delayTicks": 0,
       "cooldownSeconds": 120,
-      "requirePassenger": false
+      "requirePassenger": true
     },
     {
       "id": "sos-links",

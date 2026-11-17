@@ -4,7 +4,6 @@
       "id": "pirana",
       "name": "Pira\u00F1a",
       "counters": ["Pira\u00F1a"],
-      "park": "park-1",
       "trigger": {"x": 253.13, "y": 63.78, "z": 284.05, "radius": 7},
       "camera": {"x": 261.00, "y": 69.12, "z": 287.22, "yaw": 1200.3, "pitch": 27.1},
       "delayTicks": 0,

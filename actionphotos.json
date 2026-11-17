@@ -16,8 +16,8 @@
       "name": "Droomvlucht",
       "attraction": "Droomvlucht",
       "counters": ["Droomvlucht"],
-      "trigger": {"x": 136.91, "y": 66.00, "z": -339.46, "radius": 3}
-      "camera": {"x": 136.91, "y": 66.62, "z": -336.46, "yaw": 61020.2, "pitch": 0.1}
+      "trigger": {"x": 136.91, "y": 66.00, "z": -339.46, "radius": 3},
+      "camera": {"x": 136.91, "y": 66.62, "z": -336.46, "yaw": 61020.2, "pitch": 0.1},
       "delayTicks": 3,
       "cooldownSeconds": 120,
       "requirePassenger": true

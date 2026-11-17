@@ -5,8 +5,8 @@
       "name": "Pira\u00F1a",
       "attraction": "Pira\u00F1a",
       "counters": ["Pira\u00F1a"],
-      "trigger": {"x": 250.13, "y": 63.78, "z": 285.05, "radius": 3},
-      "camera": {"x": 255.00, "y": 68.12, "z": 288.22, "yaw": 1200.3, "pitch": 27.1},
+      "trigger": {"x": 251.13, "y": 63.78, "z": 284.05, "radius": 3},
+      "camera": {"x": 255.00, "y": 68.62, "z": 288.22, "yaw": 1200.3, "pitch": 27.1},
       "delayTicks": 0,
       "cooldownSeconds": 120,
       "requirePassenger": true

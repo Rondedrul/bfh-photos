@@ -45,6 +45,17 @@
       "requirePassenger": true
     },
     {
+      "id": "fatamorgana",
+      "name": "Fata Morgana",
+      "attraction": "Fata Morgana",
+      "counters": ["Fata Morgana"],
+      "trigger": {"x": -1.08, "y": 66.00, "z": 355.83, "radius": 3},
+      "camera": {"x": 3.08, "y": 69.62, "z": 358.83, "yaw": 4445.1, "pitch": 42.3},
+      "delayTicks": 20,
+      "cooldownSeconds": 120,
+      "requirePassenger": true
+    },
+    {
       "id": "sos-links",
       "name": "Speed of Sound (links)",
       "counters": ["Speed of Sound Links"],

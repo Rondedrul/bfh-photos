@@ -5,7 +5,7 @@
       "name": "Pira\u00F1a",
       "attraction": "Pira\u00F1a",
       "counters": ["Pira\u00F1a"],
-      "trigger": {"x": 255.13, "y": 63.78, "z": 283.05, "radius": 3},
+      "trigger": {"x": 250.13, "y": 63.78, "z": 285.05, "radius": 3},
       "camera": {"x": 255.00, "y": 68.12, "z": 288.22, "yaw": 1200.3, "pitch": 27.1},
       "delayTicks": 0,
       "cooldownSeconds": 120,

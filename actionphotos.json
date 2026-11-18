@@ -7,6 +7,7 @@
       "counters": ["Pira\u00F1a"],
       "trigger": {"x": 251.13, "y": 63.78, "z": 284.05, "radius": 3},
       "camera": {"x": 255.00, "y": 68.62, "z": 288.22, "yaw": 1200.3, "pitch": 27.1},
+      "flashLight": false
       "delayTicks": 8,
       "cooldownSeconds": 300,
       "requirePassenger": true
@@ -40,6 +41,7 @@
       "counters": ["Baron 1898"],
       "trigger": {"x": 454.25, "y": 73.00, "z": 293.15, "radius": 3},
       "camera": {"x": 452.25, "y": 72.62, "z": 281.15, "yaw": 60816.9, "pitch": 8.1},
+      "flashLight": false
       "delayTicks": 0,
       "cooldownSeconds": 300,
       "requirePassenger": true

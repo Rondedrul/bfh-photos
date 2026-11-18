@@ -29,7 +29,7 @@
       "counters": ["Carnaval Festival"],
       "trigger": {"x": 713.94, "y": 64.00, "z": -282.14, "radius": 3},
       "camera": {"x": 710.94, "y": 64.62, "z": -281.00, "yaw": 60750.8, "pitch": 1.3},
-      "delayTicks": 30,
+      "delayTicks": 45,
       "cooldownSeconds": 300,
       "requirePassenger": true
     },

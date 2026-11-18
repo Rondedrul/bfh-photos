@@ -56,6 +56,39 @@
       "requirePassenger": true
     },
     {
+      "id": "vliegendehollander",
+      "name": "Vliegende Hollander",
+      "attraction": "Vliegende Hollander",
+      "counters": ["Vliegende Hollander"],
+      "trigger": {"x": 518.83, "y": 73.00, "z": 343.70, "radius": 3},
+      "camera": {"x": 516.83, "y": 73.62, "z": 346.70, "yaw": -48.6, "pitch": -5.6},
+      "delayTicks": 10,
+      "cooldownSeconds": 300,
+      "requirePassenger": true
+    },
+    {
+      "id": "jorisendedraakwater",
+      "name": "Joris en de Draak Water",
+      "attraction": "Joris en de Draak",
+      "counters": ["Joris en de Draak Water"],
+      "trigger": {"x": 527.00, "y": 70.00, "z": 421.96, "radius": 3},
+      "camera": {"x": 530.00, "y": 70.62, "z": 426.96, "yaw": 60.4, "pitch": 0.8},
+      "delayTicks": 10,
+      "cooldownSeconds": 300,
+      "requirePassenger": true
+    },
+    {
+      "id": "jorisendedraakvuur",
+      "name": "Joris en de Draak Vuur",
+      "attraction": "Joris en de Draak",
+      "counters": ["Joris en de Draak Vuur"],
+      "trigger": {"x": 523.00, "y": 69.00, "z": 425.96, "radius": 3},
+      "camera": {"x": 520.00, "y": 69.62, "z": 431.96, "yaw": 60.4, "pitch": 0.8},
+      "delayTicks": 10,
+      "cooldownSeconds": 300,
+      "requirePassenger": true
+    },
+    {
       "id": "sos-links",
       "name": "Speed of Sound (links)",
       "counters": ["Speed of Sound Links"],

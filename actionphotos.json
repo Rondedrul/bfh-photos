@@ -53,6 +53,7 @@
       "counters": ["Fata Morgana"],
       "trigger": {"x": -1.08, "y": 66.00, "z": 355.83, "radius": 3},
       "camera": {"x": 4.40, "y": 69.62, "z": 356.97, "yaw": 5519.1, "pitch": 36.5},
+      "flashLight": false,
       "delayTicks": 85,
       "cooldownSeconds": 300,
       "requirePassenger": true

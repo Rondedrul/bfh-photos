@@ -7,7 +7,6 @@
       "counters": ["Pira\u00F1a"],
       "trigger": {"x": 251.13, "y": 63.78, "z": 284.05, "radius": 3},
       "camera": {"x": 255.00, "y": 68.62, "z": 288.22, "yaw": 1200.3, "pitch": 27.1},
-      "warmupTicks": 4,
       "flashLight": false,
       "delayTicks": 8,
       "cooldownSeconds": 300,

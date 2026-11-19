@@ -90,14 +90,6 @@
       "delayTicks": 10,
       "cooldownSeconds": 300,
       "requirePassenger": true
-    },
-    {
-      "id": "sos-rechts",
-      "name": "Speed of Sound (rechts)",
-      "counters": ["Speed of Sound Rechts"],
-      "park": "park-1",
-      "trigger": { "x": 230.5, "y": 66.0, "z": 40.5, "radius": 3 },
-      "camera":  { "x": 235.5, "y": 71.0, "z": 48.5, "yaw": 200.0, "pitch": 12.0 }
     }
   ]
 }

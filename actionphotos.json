@@ -42,7 +42,7 @@
       "trigger": {"x": 454.25, "y": 73.00, "z": 293.15, "radius": 3},
       "camera": {"x": 452.25, "y": 72.62, "z": 281.15, "yaw": 60816.9, "pitch": 8.1},
       "flashLight": false,
-      "delayTicks": 0,
+      "delayTicks": 10,
       "cooldownSeconds": 300,
       "requirePassenger": true
     },

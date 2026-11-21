@@ -87,7 +87,7 @@
       "counters": ["Joris en de Draak Vuur"],
       "trigger": {"x": 523.00, "y": 69.00, "z": 425.96, "radius": 3},
       "camera": {"x": 520.00, "y": 69.62, "z": 431.96, "yaw": -150.4, "pitch": 3.8},
-      "delayTicks": 10,
+      "delayTicks": 0,
       "cooldownSeconds": 300,
       "requirePassenger": true
     }

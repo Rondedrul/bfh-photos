@@ -75,8 +75,8 @@
       "attraction": "Joris en de Draak",
       "counters": ["Joris en de Draak Water"],
       "trigger": {"x": 527.00, "y": 70.00, "z": 421.96, "radius": 3},
-      "camera": {"x": 530.00, "y": 70.62, "z": 426.96, "yaw": 60.4, "pitch": 0.8},
-      "delayTicks": 10,
+      "camera": {"x": 530.00, "y": 70.62, "z": 426.00, "yaw": 150.4, "pitch": 3.8},
+      "delayTicks": 0,
       "cooldownSeconds": 300,
       "requirePassenger": true
     },
@@ -86,7 +86,7 @@
       "attraction": "Joris en de Draak",
       "counters": ["Joris en de Draak Vuur"],
       "trigger": {"x": 523.00, "y": 69.00, "z": 425.96, "radius": 3},
-      "camera": {"x": 520.00, "y": 69.62, "z": 431.96, "yaw": 60.4, "pitch": 0.8},
+      "camera": {"x": 520.00, "y": 69.62, "z": 431.96, "yaw": -150.4, "pitch": 3.8},
       "delayTicks": 10,
       "cooldownSeconds": 300,
       "requirePassenger": true
